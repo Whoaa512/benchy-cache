@@ -3,3 +3,6 @@ coverage/
 
 rust/target/
 data/
+random_files/
+
+bench/*.txt
